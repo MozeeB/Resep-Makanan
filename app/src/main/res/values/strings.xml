@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Resep Makanan</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Mujiburrohman</string>
+    <string name="nav_header_subtitle">Mujiburr741@gmail.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+
+    <string-array name="mieCar">
+        <item>1.Pertama, kita akan membuat kuah kaldu mie ayam terlebih dahulu, yaitu dengan merebus lagi air rebusan daging ayam ditambahkan dengan lada bubuk, garam, dan tulang ayam secukupnya.</item>
+        <item>2.Kedua, membuat toping ayam. Ayam yang telah direbus kemudian di potong kecil-kecil atau potong halus.</item>
+        <item>3.Haluskan bumbu yang terdiri dari bawang putih, bawang merah, ketumbar, kunyit, kemiri, dan jahe.</item>
+        <item>4.Tumis ayam dengan bumbu yang telah dihaluskan.</item>
+        <item>5.Tambahkan garam dan penyedap rasa secukupnya.</item>
+        <item>6.Setelah kuah mie ayam dan toping ayam, kita beranjak pada mie ayam. Rebus mie basah atau mie telur hingga matang.</item>
+        <item>7.Selama merebus mie, siapkan mangkuk. Kemudian tambahkan 1 sdm minyak ayam dan sdt merica.</item>
+        <item>8.Masukkan mie yang telah matang ke dalam mangkuk. Kemudian aduk mie hingga tercampur sempurna dengan minyak ayam.</item>
+        <item>9.Tambahan toping ayam dan juga kuah ayam.</item>
+        <item>10.Mie ayam siap disajikan.</item>
+
+    </string-array>
+</resources>
